@@ -1,2 +1,0 @@
-# coding-standard
-coding-standard
