@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/coding-standard",
+    "name": "oldpak/coding-standard",
     "type": "phpcodesniffer-standard",
     "description": "The Doctrine Coding Standard is a set of PHPCS rules applied to all Doctrine projects.",
     "keywords": [
@@ -17,8 +17,7 @@
     "homepage": "https://www.doctrine-project.org/projects/coding-standard.html",
     "license": "MIT",
     "authors": [
-        {"name": "Benjamin Eberlei", "email": "kontakt@beberlei.de"},
-        {"name": "Steve Müller", "email": "st.mueller@dzh-online.de"}
+        {"name": "oldpak", "email": "2233466866@qq.com"}
     ],
     "require": {
         "php": "^7.1 || ^8.0",
